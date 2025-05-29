@@ -22,7 +22,7 @@ Examine revenue trends, average order value, and order volume.
 
 Provide actionable insights for business improvement.
 
-![Screenshot (2)](https://github.com/user-attachments/assets/b3582bae-2880-4360-aff3-b9bb9dfbec83)
+![Screenshot (3)](https://github.com/user-attachments/assets/bc5665c2-8d60-46f1-96c4-f216dfee0f54)
 
 📁 Data Source
 The dataset consists of the following key tables:
@@ -37,7 +37,6 @@ pizza_types: Descriptions, categories, and names of each pizza.
 
 All data was stored in a relational format and queried using SQL before importing into Power BI for visualization.
 
-![Screenshot (3)](https://github.com/user-attachments/assets/bc5665c2-8d60-46f1-96c4-f216dfee0f54)
 ![Screenshot (4)](https://github.com/user-attachments/assets/8d2e680b-aa9a-4313-892f-2024c7068092)
 
 🔧 Tools & Technologies
