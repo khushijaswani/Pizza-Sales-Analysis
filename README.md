@@ -7,9 +7,10 @@ This project is a Pizza Sales Analysis Dashboard built using SQL for data queryi
 
 The analysis helps stakeholders make informed decisions about menu optimization, peak sales periods, and marketing strategies.
 
-![Screenshot (1)](https://github.com/user-attachments/assets/671ecd1d-94bf-48f6-a05e-c9ced97303c9)
+![Screenshot (1)](https://github.com/user-attachments/assets/9bf8b399-4f22-4231-8b17-5b0e608afb14)
 
 🧩 Project Objectives
+
 
 Analyze daily, weekly, and monthly sales performance.
 
@@ -21,8 +22,7 @@ Examine revenue trends, average order value, and order volume.
 
 Provide actionable insights for business improvement.
 
-![Screenshot (2)](https://github.com/user-attachments/assets/8994945f-8375-4293-9816-9c9295f9c6f1)
-
+![Screenshot (2)](https://github.com/user-attachments/assets/b3582bae-2880-4360-aff3-b9bb9dfbec83)
 
 📁 Data Source
 The dataset consists of the following key tables:
@@ -37,15 +37,14 @@ pizza_types: Descriptions, categories, and names of each pizza.
 
 All data was stored in a relational format and queried using SQL before importing into Power BI for visualization.
 
-
-![Screenshot (3)](https://github.com/user-attachments/assets/0a9d95f9-b03c-406e-9b8f-e5dcd461036a)
-
-![Screenshot (4)](https://github.com/user-attachments/assets/5d4b566c-cc12-4a3d-a256-db273c6875b2)
+![Screenshot (3)](https://github.com/user-attachments/assets/bc5665c2-8d60-46f1-96c4-f216dfee0f54)
+![Screenshot (4)](https://github.com/user-attachments/assets/8d2e680b-aa9a-4313-892f-2024c7068092)
 
 🔧 Tools & Technologies
 SQL: Data cleaning, joining, and aggregations.
 
-Power BI: Dashboard design and interactive visualizations.
+
+Power BI: Dashboard design and interactive visualizations
 
 DAX (Data Analysis Expressions): Used for calculated columns and measures in Power BI.
 
